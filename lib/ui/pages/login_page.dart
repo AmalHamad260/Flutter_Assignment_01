@@ -1,6 +1,4 @@
-import 'package:amal_assignment_01/interfaces/OnTextFialdListener.dart';
-import 'package:amal_assignment_01/ui/pages/register_page.dart';
-import 'package:amal_assignment_01/ui/widgets/button_primary_24_widget.dart';
+import 'package:amal_assignment_01/ui/widgets/button_primary_widget.dart';
 import 'package:amal_assignment_01/ui/widgets/logo_widget.dart';
 import 'package:amal_assignment_01/utils/data/Constants.dart';
 import 'package:amal_assignment_01/utils/helper/NavigationHelper.dart';
@@ -8,8 +6,6 @@ import 'package:amal_assignment_01/utils/helper/SharedPrefHelper.dart';
 import 'package:amal_assignment_01/ui/widgets/my_text_field_form_widget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-import 'package:string_validator/string_validator.dart';
 
 class LoginPage extends StatefulWidget {
   @override

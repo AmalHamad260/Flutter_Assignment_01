@@ -1,5 +1,4 @@
-import 'package:amal_assignment_01/ui/widgets/button_primary_24_widget.dart';
-import 'package:amal_assignment_01/ui/widgets/logo_widget.dart';
+import 'package:amal_assignment_01/ui/widgets/button_primary_widget.dart';
 import 'package:amal_assignment_01/utils/data/Constants.dart';
 import 'package:amal_assignment_01/utils/helper/NavigationHelper.dart';
 import 'package:amal_assignment_01/utils/helper/SharedPrefHelper.dart';
